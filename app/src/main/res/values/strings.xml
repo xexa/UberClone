@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">UberClone</string>
     <string name="sign_in_with_phone">Sign in with Phone</string>
+    <string name="register_text">Let\'s start by creating you an account</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="continue_text">Continue</string>
 </resources>
